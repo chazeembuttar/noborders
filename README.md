@@ -1,0 +1,2 @@
+# noborders
+My static website
